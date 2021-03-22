@@ -1,2 +1,5 @@
 # Machine-Learning-Studies-Makine-Ogrenmesi-Calismalari
-Makine öğrenmesi ile yaptığım çalışmalar (Korona Virüs 150 günlük tahmini değerleri, regression denemeleri.)-(Corona virüs 150 day prediction, regression studies.)
+Makine öğrenmesi ile yaptığım çalışmalar:
+
+- Korona virüs 150 günlük tahmini değerlerini veren program.
+- Regression başlangıç seviyesinde denemeler.
